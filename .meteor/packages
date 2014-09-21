@@ -8,4 +8,5 @@ insecure
 bootstrap
 coffeescript
 iron:router
+sacha:spin
 
